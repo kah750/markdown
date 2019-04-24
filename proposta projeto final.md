@@ -4,9 +4,11 @@
 
 O sistema consiste em um catálgo de livros baseado no acervo existente no Colégio Pedro II Campus Duque de Caxias, onde o usuário terá o poder de filtrar características das obras e pesquisar títulos específicos, além de receber recomendações baseadas em suas consultas.
 
+
 ### Objetivos:
 
 Criar uma interface amigável e intuitiva, fazendo o usuário acessar todas as funcionalidades do programa sem a necessidade de atalhos. O sistema procura, da mesma maneira, proporcionar comodidade ao cotidiano, bem como enriquecimento cultural.
+
 
 ### Principais Funcionalidades:
 
@@ -14,6 +16,7 @@ Criar uma interface amigável e intuitiva, fazendo o usuário acessar todas as f
 - Categorizar os títulos utilizando diferentes critérios
 - Ser capaz de executar consultas considerando especificações do usuário  
 - Realizar indicações de obras com base nas pesquisas feitas no programa  
+
 
 ### Stakeholder:
 * Nome: Allan
