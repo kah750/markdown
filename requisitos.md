@@ -44,42 +44,43 @@
 - [RF 11](#rf-11)
 
 ### RF 01
-+ O sistema gerencia cadastro e informações dos livros, de usuários e moderadores.
+O sistema gerencia cadastro e informações dos livros, de usuários e moderadores.
+    
     + Informações do Livro:
 
-    * Informações do sistema quanto a livros:
+        * Informações do sistema quanto a livros:
 
-  	1. Título;
-  	2. Autor;
-  	3. Aquisição;
-  	4. Observações;
-  	5. Volume;
-  	6. Edição;
-  	7. Editora;
-  	8. Exemplares;
-  	9. Classificação;
+  	        1. Título;
+  	        2. Autor;
+  	        3. Aquisição;
+  	        4. Observações;
+  	        5. Volume;
+  	        6. Edição;
+  	        7. Editora;
+  	        8. Exemplares;
+  	        9. Classificação;
 
 
     + Informações do Usuário:
 
-    * Informações do sistema quanto a usuários:
+        * Informações do sistema quanto a usuários:
 
-  	1. Nome;
-  	2. Telefone;
-  	3. E-mail;   
-  	4. Senha;
+  	        1. Nome;
+  	        2. Telefone;
+  	        3. E-mail;   
+  	        4. Senha;
 
-    * Informações do sistema quanto ao moderador:
+    + Informações do sistema quanto ao moderador:
 
-  * Inf
+        * Inf
 
-  	1. CPF;
-  	2. Nome;
-  	3. Telefone;
-	4. Estado;
-	5. Endereço;
-  	6. E-mail;
-  	7. Senha.
+  	        1. CPF;
+  	        2. Nome;
+  	        3. Telefone;
+	        4. Estado;
+	        5. Endereço;
+  	        6. E-mail;
+  	        7. Senha.
 
 ### RF 02
 + Todas as informações do Usuário e dos Livros são guardadas em um banco de dados.
