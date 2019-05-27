@@ -1,6 +1,6 @@
 # Casos de Uso
 
-- [CDU 01](#cdu-01)
+- [CDU 01](#CDU-01)
 - [CDU 02](#cdu-02)
 - [CDU 03](#cdu-03)
 - [CDU 04](#cdu-04)
@@ -14,7 +14,7 @@
 
 
 
-###CDU 01 - Cadastro de Usuários
+### CDU 01 - Cadastro de Usuários
 
 **Atores:** Usuários
 
