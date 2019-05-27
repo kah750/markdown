@@ -26,7 +26,8 @@
 
 **Fluxo Alternativo:** 
 1. Alguma informação não é válida. Logo, o sistema retorna uma mensagem de erro sinalizando o campo a ser preenchido corretamente.
-<br> 
+
+
  ### CDU 02 - Cadastro de Moderadores
 
 **Atores:** Moderadores
@@ -45,7 +46,8 @@
 
 **Fluxo Alternativo 2:** 
 1. Alguma informação do novo moderador não é válida. Neste caso, o software retorna uma mensagem de erro informando qual campo precisa ser preenchido novamente. 
-<br>
+
+
 ### CDU 03 - Login
 
 **Atores:** Usuários e Moderadores
@@ -58,7 +60,8 @@
 
 **Fluxo Alternativo:**
 1. Algum campo de login não foi preenchido com uma informação existente no banco de dados. Neste caso, uma mensagem é exposta sinalizando o erro.
-<br>
+
+
 ### CDU 04 - Indicação de Livros
 
 **Atores:** Usuários e Moderadores
@@ -67,7 +70,8 @@
 
 **Fluxo Principal:**
 1. Após efetuar o login, o usuário ou moderador é direcionado para uma página inicial onde recebe indicações de livros baseados em seus gêneros preferidos previamente informados. As buscas recentes do usuário em questão também influenciam os resultados. Há também a opção de selecionar os livros que aparecem e ver informações sobre o mesmo
-<br>
+
+
 ### CDU 05 - Pesquisa de Livros
 
 **Atores**: Usuários e Moderadores
@@ -82,7 +86,8 @@
 
 **Fluxo Alternativo:**
 1. Caso a obra não seja encontrada no sistema, uma mensagem informando isso aparecerá.
-<br>
+
+
 ### CDU 06 - Lista de Livros Interessantes
 
 **Atores:** Usuários e Moderadores
@@ -91,7 +96,8 @@
 
 **Fluxo Principal**: 
 1. Ao clicar em um livro, o usuário/moderador tem a opção de enviá-lo a uma lista de livros de seu interesse para futuras consultas pessoais.
-<br>
+
+
 ### CDU 07 - Consulta da Lista de Livros Interessantes
 
 **Atores:** Usuários e Moderadores
@@ -104,7 +110,8 @@
 
 **Fluxo Alternativo:**
 1. Caso a lista esteja vazia, uma mensagem sinalizará esta condição.
-<br>
+
+
 ### CDU 08 - Alteração de Perfil
 
 **Atores:** Usuários e Moderadores
@@ -114,7 +121,8 @@
 **Fluxo Principal:**
 1. O usuário/moderador acessa os dados informados no cadastro de seu perfil e os altera, com exceção da senha;
 2. Há, também, a opção de adicionar ou mudar uma foto de perfil.
-<br>
+
+
 ### CDU 09 - Gerenciamento do Acervo
 
 **Atores:** Moderadores
@@ -124,7 +132,8 @@
 **Fluxo Principal:**
 1. O moderador do software tem a possibilidade de alterar o acervo do sistema;
 2. O moderador tem as opções de adicionar ou alterar informações de livros já cadastrados no banco de dados, assim como excluir títulos.
-<br>
+
+
 ### CDU 10 - Adição de Títulos
 
 **Atores:** Moderadores
