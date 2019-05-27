@@ -2,16 +2,16 @@
 
 ## Sumário
 - [CDU 01](#cdu-01---cadastro-de-usuários)
-- [CDU 02](#cdu-02)
-- [CDU 03](#cdu-03)
-- [CDU 04](#cdu-04)
-- [CDU 05](#cdu-05)
-- [CDU 06](#cdu-06)
-- [CDU 07](#cdu-07)
-- [CDU 08](#cdu-08)
-- [CDU 09](#cdu-09)
-- [CDU 10](#cdu-10)
-- [CDU 11](#cdu-11)
+- [CDU 02](#cdu-02---cadastro-de-moderadores)
+- [CDU 03](#cdu-03---login)
+- [CDU 04](#cdu-04---indicação-de-livros)
+- [CDU 05](#cdu-05---pesquisa-de-livros)
+- [CDU 06](#cdu-06---lista-de-livros-interessantes)
+- [CDU 07](#cdu-07---consulta-da-lista-de-livros-interessantes)
+- [CDU 08](#cdu-08---alteração-de-perfil)
+- [CDU 09](#cdu-09---gerenciamento-do-acervo)
+- [CDU 10](#cdu-10---adição-de-títulos)
+- [CDU 11](#cdu-11---remoção-de-títulos)
 
 
 
