@@ -1,6 +1,7 @@
 # Casos de Uso
 
-- [Caso de Uso 01](#CDU-01)
+## Sumário
+- [CDU 01](#cdu-01---cadastro-de-usuários)
 - [CDU 02](#cdu-02)
 - [CDU 03](#cdu-03)
 - [CDU 04](#cdu-04)
