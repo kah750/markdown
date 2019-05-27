@@ -1,6 +1,5 @@
 # Casos de Uso
 
-## Sumário
 - [CDU 01](#cdu-01)
 - [CDU 02](#cdu-02)
 - [CDU 03](#cdu-03)
