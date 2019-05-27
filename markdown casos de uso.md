@@ -1,6 +1,6 @@
 # Casos de Uso
 
-- [Caso de Uso 01](#CDU 01)
+- [Caso de Uso 01] (#CDU-01)
 - [CDU 02](#cdu-02)
 - [CDU 03](#cdu-03)
 - [CDU 04](#cdu-04)
