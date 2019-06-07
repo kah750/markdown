@@ -41,7 +41,6 @@
 - [RF 08](#rf-08)
 - [RF 09](#rf-09)
 - [RF 10](#rf-10)
-- [RF 11](#rf-11)
 
 ### RF 01
 O sistema gerencia cadastro e informações dos livros, de usuários e moderadores.
@@ -111,6 +110,3 @@ O sistema gerencia cadastro e informações dos livros, de usuários e moderador
 
 ### RF 10
 + O algoritmo fará recomendações por conteúdo baseada em leituras passadas.
-
-### RF 11
-+ Os livros mais lidos serão colocados em uma lista nomeada "Em alta", que aparecerá para todos os usuários.
